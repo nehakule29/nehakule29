@@ -1,4 +1,4 @@
-# [Neha Kule]
+# Neha Kule
 
 A passionate Java Developer specializing in Spring Boot, SQL, and Data Structures and Algorithms.
 
@@ -24,7 +24,6 @@ I'm a highly motivated and results-driven Java Developer with a strong foundatio
 
 **Operating Systems:** Linux, Windows
 
-## Projects
 
 
 ## Data Structures and Algorithms
