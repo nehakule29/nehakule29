@@ -23,8 +23,6 @@ I'm a highly motivated and results-driven Java Developer with a strong foundatio
 **Tools:** Git, Maven, Eclipse
 
 **Operating Systems:** Linux, Windows
-![](https://komarev.com/ghpvc/?username=nehakule29)
-
 
 
 ## Data Structures and Algorithms
@@ -33,3 +31,5 @@ I'm a highly motivated and results-driven Java Developer with a strong foundatio
 * Focus on optimizing solutions for time and space complexity.
 
 Thank you for visiting my profile! I'm always open to new opportunities and collaborations.
+
+![](https://komarev.com/ghpvc/?username=nehakule29&color=brightgreen&style=plastic&label=Profile+Visits)
